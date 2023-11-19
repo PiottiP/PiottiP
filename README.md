@@ -7,5 +7,5 @@ I am scientist with an interest in coding and data science, currently working in
 * 💬 I have experience with A/B testing, linear and logistic regressions, survival curve analysis (cox regressions), k-means and hierarchical cluster analysis, factor analysis (EFA e CFA) and principal component analysis (PCA)
 * 📈 I use the software SPSS and the programming language R depending on projects and collaborations
 * 📊 I like to use ggplot2 and dplyr for data visualisation
-* 🌱 I’m currently learning rgl 3D charts using R and Python programming for data science
+* 🌱 I’m currently learning Python programming for data science
 * 📫 How to reach me: LinkedIn @ Patrizia Piotti
